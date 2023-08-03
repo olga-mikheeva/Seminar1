@@ -1,0 +1,15 @@
+D:\QA\гик\c#\Seminar1\Taska2\bin\Debug\net6.0\Taska2.exe
+D:\QA\гик\c#\Seminar1\Taska2\bin\Debug\net6.0\Taska2.deps.json
+D:\QA\гик\c#\Seminar1\Taska2\bin\Debug\net6.0\Taska2.runtimeconfig.json
+D:\QA\гик\c#\Seminar1\Taska2\bin\Debug\net6.0\Taska2.dll
+D:\QA\гик\c#\Seminar1\Taska2\bin\Debug\net6.0\Taska2.pdb
+D:\QA\гик\c#\Seminar1\Taska2\obj\Debug\net6.0\Taska2.csproj.AssemblyReference.cache
+D:\QA\гик\c#\Seminar1\Taska2\obj\Debug\net6.0\Taska2.GeneratedMSBuildEditorConfig.editorconfig
+D:\QA\гик\c#\Seminar1\Taska2\obj\Debug\net6.0\Taska2.AssemblyInfoInputs.cache
+D:\QA\гик\c#\Seminar1\Taska2\obj\Debug\net6.0\Taska2.AssemblyInfo.cs
+D:\QA\гик\c#\Seminar1\Taska2\obj\Debug\net6.0\Taska2.csproj.CoreCompileInputs.cache
+D:\QA\гик\c#\Seminar1\Taska2\obj\Debug\net6.0\Taska2.dll
+D:\QA\гик\c#\Seminar1\Taska2\obj\Debug\net6.0\refint\Taska2.dll
+D:\QA\гик\c#\Seminar1\Taska2\obj\Debug\net6.0\Taska2.pdb
+D:\QA\гик\c#\Seminar1\Taska2\obj\Debug\net6.0\Taska2.genruntimeconfig.cache
+D:\QA\гик\c#\Seminar1\Taska2\obj\Debug\net6.0\ref\Taska2.dll
